@@ -15,8 +15,6 @@ Foi utilizado neste curso os conhecimentos em back-end com:
 - Paged Search;
 - Versionamento de APIs;
 - Manipulação de arquivos;
-- Conceitos básicos de Docker e Docker Compose;
-- Introdução a Continous Integration com Github Actions e Azure.
 
 Como bônus desse curso:
 - Minicurso de como consumir a API com ReactJS.
